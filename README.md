@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on OOP <br>👯 I’m looking to collaborate on playing<br>🤝 I’m looking for help with my OOP subject<br>🌱 I’m currently learning OOP<br>💬 Ask me about random things in life<br>⚡ Fun fact: sass
+🔭 I’m currently working on OOP <br>👯 I’m looking to collaborate on playing<br>🤝 I’m looking for help with my OOP subject<br>🌱 I’m currently learning OOP<br>💬 Ask me about random things in life<br>⚡ Fun fact: i like blue
+
 
 
 # 💻 Tech Stack:
