@@ -1,4 +1,4 @@
-![] https://github.com/asalas0101/Elective-Laboratories/blob/main/Laboratory%202/branding/banner/2.png
+![] (https://github.com/asalas0101/Elective-Laboratories/blob/main/Laboratory%202/branding/banner/2.png)
 
 # 💫 About Me:
 🔭 I’m currently working on OOP <br>👯 I’m looking to collaborate on playing<br>🤝 I’m looking for help with my OOP subject<br>🌱 I’m currently learning OOP<br>💬 Ask me about random things in life<br>⚡ Fun fact: i like blue
